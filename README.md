@@ -39,6 +39,7 @@ The final output is an interactive **dashboard** where users can dynamically fil
 4. **Data Types**: Ensured columns were set to the correct data types (e.g., date, text, or number).
 5. **Load Clean Data**: Loaded the cleaned data back into Excel for analysis.
 
+  ![Data cleaning](https://github.com/user-attachments/assets/f2d09811-8e48-4de1-894e-b87de14f17a5)
 ---
 
 ## **4. Pivot Table Analysis**
@@ -55,6 +56,8 @@ Using Pivot Tables, the following analyses were performed:
 | Sales by channels                      | Filtered data by channels and ranked sales contribution.                                    | Top 3 channels: **Amazon, Myntra, Flipkart**, accounting for **80% of sales**.|
 | Highest-selling categories             | Filtered data by product categories.                                                       | Top categories: **Kurta**, **Set**.                                          |
 
+![Pivot table](https://github.com/user-attachments/assets/3bb3bbb8-807b-436b-a099-b9db519d0996)
+
 ---
 
 ## **5. Visualizations**
@@ -62,35 +65,22 @@ Using Pivot Tables, the following analyses were performed:
 1. **Sales vs. Orders Chart**  
    - Monthly trend chart comparing sales and orders.
    - Includes a dual-axis for easy comparison.
-   
-   ![Sales vs Orders Chart](Images/sales_vs_orders_chart.png)
 
 2. **Gender-Based Sales Contribution**  
    - Pie chart showcasing sales contribution of men and women.  
    - Women: 69% | Men: 31%.
 
-   ![Gender Sales Contribution](Images/gender_sales_chart.png)
-
 3. **Top States by Sales**  
    - Horizontal bar chart ranking the top 5 states contributing to sales.
-
-   ![Top States Chart](Images/top_states_chart.png)
 
 4. **Age and Gender Orders Analysis**  
    - Stacked bar chart analyzing sales by age groups and gender.
 
-   ![Age and Gender Chart](Images/age_gender_chart.png)
-
 5. **Channel Sales Contribution**  
    - Column chart highlighting sales contributions by channels.
 
-   ![Channel Sales Chart](Images/channel_sales_chart.png)
-
 6. **Highest-Selling Categories**  
    - Bar chart ranking top-selling categories.
-
-   ![Top Categories Chart](Images/top_categories_chart.png)
-
 ---
 
 ## **6. Dashboard Design**
@@ -106,7 +96,8 @@ Using Pivot Tables, the following analyses were performed:
 3. **Connect Slicers**: Linked slicers to all charts for seamless filtering.
 4. **Finalize Layout**: Arranged charts for a professional and user-friendly design.
 
-   ![Dashboard Screenshot](Images/final_dashboard.png)
+![dashboard](https://github.com/user-attachments/assets/17f69dc3-7b2d-47bc-b876-a3586b24b48e)
+
 
 ---
 
